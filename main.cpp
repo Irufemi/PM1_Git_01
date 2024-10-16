@@ -7,7 +7,7 @@ int main() {
 
 	std::cout << "Hello World!\n";
 
-	std::cout << "PullRequest branch changed\n";
+	std::cout << "PullRequest branch \n";
 
 	return 0;
 }
